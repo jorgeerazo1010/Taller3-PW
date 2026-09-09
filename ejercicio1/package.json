@@ -1,0 +1,11 @@
+{
+  "name": "api-iva-renta",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
